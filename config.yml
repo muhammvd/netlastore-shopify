@@ -1,4 +1,4 @@
 development:
-  password: shptka_37afadb3ed8db827f64778c57364e7f9
-  theme_id: "140895256885"
-  store: netlastore.myshopify.com
+  password: ${DEV_PASSWD}
+  theme_id: ${DEV_THEMEID}
+  store: ${DEV_SHOP}
