@@ -1,6 +1,4 @@
-$color-red: rgb(25, 43, 9);
-header, body, .page-width {
-    background-color: $color-red!important;
-    font-size: 40px;
-    color: yellow;
+$color-grey: blue;
+header, body {
+    color: $color-grey!important;
 }

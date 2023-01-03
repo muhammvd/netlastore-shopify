@@ -9,10 +9,12 @@ gulp.task('sass', function() {
 
 })
 
-gulp.task ('watch', function(){
+//Feature deprecated
+
+/*gulp.task ('watch', function(){
     gulp.watch('scsss/*.scss', gulp.series('sass'))
-    /*.themeKit.command('watch', {
+    themeKit.command('watch', {
         allowLive: true,
         env: 'development'
-    }) */
-});
+    }) 
+});*/

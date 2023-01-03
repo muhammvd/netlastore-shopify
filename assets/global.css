@@ -1,5 +1,3 @@
-header, body, .page-width {
-  background-color: rgb(25, 43, 9) !important;
-  font-size: 40px;
-  color: yellow;
+header, body {
+  color: blue !important;
 }
